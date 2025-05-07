@@ -2,3 +2,6 @@
 *.app
 *.out
 *.exe
+
+# VSCode configs
+.vscode/
