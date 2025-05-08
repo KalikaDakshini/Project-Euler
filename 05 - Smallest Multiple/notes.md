@@ -1,0 +1,1 @@
+The smallest multiple that is divisible by numbers `1` to `n` is a product of the largest powers of primes less than n
